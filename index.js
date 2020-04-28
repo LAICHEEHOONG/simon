@@ -160,11 +160,11 @@ class Game {
 
 
 
-const greenAudio = new Audio('./sounds/green.mp3');
-const blueAudio = new Audio('./sounds/blue.mp3');
-const redAudio = new Audio('./sounds/red.mp3');
-const yellowAudio = new Audio('./sounds/yellow.mp3');
-const wrongAudio = new Audio('./sounds/wrong.mp3');
+const greenAudio = new Audio('green.mp3');
+const blueAudio = new Audio('blue.mp3');
+const redAudio = new Audio('red.mp3');
+const yellowAudio = new Audio('yellow.mp3');
+const wrongAudio = new Audio('wrong.mp3');
 
 const clickRecordSimon = [];
 const autoRecordSimon = [];
